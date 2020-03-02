@@ -1,11 +1,13 @@
 # Instrucciones
 
-1. Abra estos proyectos en Netbeans
+1.a Clone estos proyectos en Netbeans
+
+1.b Ejecute Clean & Build sobre el proyecto raíz: s2-parcial1-heroes para descragar las dependencias del proyecto. 
 
 2. En Netbeans Vaya a Services, Databases, JavaDB y cree una base de datos que 
 se llame heroeDB (los demás campos déjelos en blanco)
 
-3. Cada vez que complete un paso genere un commit
+3. Cada vez que complete un paso haga un commit 
 
 4. Al finalizar ingrese a github y genere un release con el nombre Entrega_Parcial
 
